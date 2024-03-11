@@ -1,16 +1,17 @@
 # Portfolio
 ---
-## Natural Language Processing
+## Airline reservation management website
 
-### CS224n: Natural Language Processing with Deep Learning
+See website [***Airline reservation management***](https://airline-reservation-dbserver.database.windows.net/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LinhDancute/Airline-Reservation-MVC-Aspnet/tree/B7)
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+**Introduction** signup/signin, authentication, authorization, search for information. Administrators can CRUD and manage
+**Technologies** .Net Framework7 MVC, Linq, Entity Framework6, SQL Server, Identity Server7, Azure Data
+Studio, Docker
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
 
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+**Beside** Design system operating procedures through ERD, Sequence diagram, Activity diagram, Use
+case, DFD, BFD, Testcase. U ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
 
 <center><img src="images/nlp.png"/></center>
 
