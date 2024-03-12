@@ -2,7 +2,7 @@
 ---
 ## Airline reservation management website
 
-Deploys ASP.NET application with Azure SQL Database on Microsoft Azure Cloud. See website at[***Airline reservation management***](https://airline-reservation-dbserver.database.windows.net/).
+Deploys ASP.NET application with Azure SQL Database on Microsoft Azure Cloud. See website at [***Airline reservation management***](https://airline-reservation-dbserver.database.windows.net/).
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LinhDancute/Airline-Reservation-MVC-Aspnet/tree/B7)
 
 **Introduction** signup/signin, authentication, authorization, search for information. Administrators can CRUD and manage.
@@ -42,6 +42,7 @@ website's interface.</div>
 
 ---
 ### Online Shoes Shopping System
+See website at [***Shoes Website***](https://ld-shoe-php.000webhostapp.com/).
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LinhDancute/Online-Shoes-Shopping-System_PHP/tree/main/Web2)
 
@@ -63,4 +64,4 @@ history.</div>
 (Authorization).
 
 ---
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2024 Linh Dan. Powered by Jekyll and the Minimal Theme.</center>
