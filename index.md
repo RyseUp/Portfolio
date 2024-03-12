@@ -8,42 +8,52 @@ See website [***Airline reservation management***](https://airline-reservation-d
 **Introduction** signup/signin, authentication, authorization, search for information. Administrators can CRUD and manage.
 <br>
 <div style="display: flex; justify-content: space-between; margin: 20px;">
-    <img src="images/Manage.png" alt="Manage" width="30%">
-    <img src="images/flight-route.png" alt="Flight Route" width="30%">
-    <img src="images/flight.png" alt="Flight" width="30%">
+    <img src="images/Manage.png" alt="Manage" width="40%">
+    <img src="images/flight.png" alt="Flight" width="60%">
 </div>
 <center><img src="images/main-website.png"/></center>
-<center><img src="images/searching.png"/></center>
-<center><img src="images/buying.png"/></center>
 <br>
+
 **Technologies** .Net Framework7 MVC, Linq, Entity Framework6, SQL Server, Identity Server7, Azure Data
 Studio, Docker.
 
 **Beside** Design system operating procedures through ERD, Sequence diagram, Activity diagram, Use
 case, DFD, BFD, Test case.
 <br>
-<center><img src="images/usecase.png"/></center>
-<center><img src="images/sequence.png"/></center>
+<div style="display: flex; justify-content: space-between; margin: 20px;">
+    <img src="images/usecase.png" alt="Manage" width="50%">
+    <img src="images/sequence.png" alt="Flight" width="50%">
+</div>
 <center><img src="images/activity.png"/></center>
 <br>
-<center><img src="images/nlp.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Online Shoes Shopping System
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LinhDancute/Online-Shoes-Shopping-System_PHP/tree/main/Web2)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">This online shopping system has three modules namely Admin, Employee and Client. Admin
+can CRUD products, add new employees, grant permissions for Employees to view/edit/create. Users are
+allowed to sign up/sign in (by external provider: google or regular login by authenticating account via
+gmail), shop, store products in the shopping cart even if the website is turned off and view purchase
+history.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<div style="display: flex; justify-content: space-between; margin: 20px;">
+    <img src="images/main-shoes.png" alt="Manage" width="50%">
+    <img src="images/add-success.png" alt="Flight" width="50%">
+</div>
+<center><img src="images/statistics.png"/></center>
+
+**Technologies** .Net Framework7 MVC, Linq, Entity Framework6, SQL Server, Identity Server7, Azure Data
+Studio, Docker.
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+### Web API Ecommerce 
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LinhDancute/Ecommerce-AspNet-WEBAPI/tree/main/API_ASP.NET/Ecomm/Ecomm)
 
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<div style="text-align: justify">Allows access, user authentication, use of services and features without needing to access
+website's interface.</div>
 <br>
 <center><img src="images/fb-food-trends.png"></center>
 <br>
