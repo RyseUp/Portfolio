@@ -5,14 +5,26 @@
 See website [***Airline reservation management***](https://airline-reservation-dbserver.database.windows.net/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LinhDancute/Airline-Reservation-MVC-Aspnet/tree/B7)
 
-**Introduction** signup/signin, authentication, authorization, search for information. Administrators can CRUD and manage
-**Technologies** .Net Framework7 MVC, Linq, Entity Framework6, SQL Server, Identity Server7, Azure Data
-Studio, Docker
+**Introduction** signup/signin, authentication, authorization, search for information. Administrators can CRUD and manage.
+<br>
+<center><img src="images/Manage.png"/></center>
+<center><img src="images/flight-route.png"/></center>
+<center><img src="images/flight.png"/></center>
 
+<center><img src="images/main-website.png"/></center>
+<center><img src="images/searching.png"/></center>
+<center><img src="images/buying.png"/></center>
+<br>
+**Technologies** .Net Framework7 MVC, Linq, Entity Framework6, SQL Server, Identity Server7, Azure Data
+Studio, Docker.
 
 **Beside** Design system operating procedures through ERD, Sequence diagram, Activity diagram, Use
-case, DFD, BFD, Testcase. U ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
+case, DFD, BFD, Test case.
+<br>
+<center><img src="images/usecase.png"/></center>
+<center><img src="images/sequence.png"/></center>
+<center><img src="images/activity.png"/></center>
+<br>
 <center><img src="images/nlp.png"/></center>
 
 ---
@@ -57,7 +69,7 @@ case, DFD, BFD, Testcase. U ([GitHub](https://github.com/chriskhanhtran/CS224n-N
 
 <div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+
 <br>
 
 ---
@@ -68,7 +80,9 @@ case, DFD, BFD, Testcase. U ([GitHub](https://github.com/chriskhanhtran/CS224n-N
 
 <div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
 <br>
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/Manage.png"/></center>
+<center><img src="images/flight-route.png"/></center>
+<center><img src="images/flight.png"/></center>
 <br>
 
 ---
