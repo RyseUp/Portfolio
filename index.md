@@ -2,15 +2,16 @@
 ---
 ## Airline reservation management website
 
-See website [***Airline reservation management***](https://airline-reservation-dbserver.database.windows.net/)
+See website [***Airline reservation management***](https://airline-reservation-dbserver.database.windows.net/).
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LinhDancute/Airline-Reservation-MVC-Aspnet/tree/B7)
 
 **Introduction** signup/signin, authentication, authorization, search for information. Administrators can CRUD and manage.
 <br>
-<center><img src="images/Manage.png"/></center>
-<center><img src="images/flight-route.png"/></center>
-<center><img src="images/flight.png"/></center>
-
+<div style="display: flex; justify-content: space-between; margin: 20px;">
+    <img src="images/Manage.png" alt="Manage" width="30%">
+    <img src="images/flight-route.png" alt="Flight Route" width="30%">
+    <img src="images/flight.png" alt="Flight" width="30%">
+</div>
 <center><img src="images/main-website.png"/></center>
 <center><img src="images/searching.png"/></center>
 <center><img src="images/buying.png"/></center>
